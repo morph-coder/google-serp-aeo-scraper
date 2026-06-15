@@ -55,6 +55,14 @@ On first open the script creates sheets automatically: **Settings**, **Keywords*
 Menu **SERP Tools** should appear in the toolbar.
 
 <!-- screenshot: SERP Tools menu visible -->
+![config](reload.png)
+![config1](menu.png)
+![config2](configure.png)
+![config3](aut.png)
+![config4](verified.png)
+![config5](verified2.png)
+![config6](verif3.png)
+
 
 
 ---
@@ -68,7 +76,7 @@ Menu **SERP Tools** should appear in the toolbar.
 The token is saved in **Apps Script → Script properties** (not in any cell). It is sent only to `api.apify.com`.
 
 <!-- screenshot: Configure Apify token dialog -->
-
+![config3](token.png)
 ### Keywords
 
 Open the **Keywords** sheet. Enter one search keyword per row in column **A** (from row 2).
@@ -82,7 +90,7 @@ Open **Settings** to change country, how many results per keyword, LLM on/off, e
 ### Run
 
 **SERP Tools → Run SERP scan**
-
+![config3](run.png)
 - The Actor starts on Apify.
 - Results import in about **1 minute** (automatic background check).
 - First time: Google may ask to **authorize the script** — click Allow.
