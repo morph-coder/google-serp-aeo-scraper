@@ -21,13 +21,16 @@ You only need the Apify token in the spreadsheet. LLM API keys (ChatGPT, Gemini,
 
 Create a blank Google Spreadsheet in your Google Drive.
 
-[new sheets](sheets.png)
+![new sheets](sheets.png)
 
 ### Step 2 — Open Apps Script
 
 Menu: **Extensions → Apps Script**
 
 <!-- screenshot: Extensions → Apps Script -->
+![App Script](app_script.png)
+
+![code.gs](Code_gs.png)
 
 ### Step 3 — Paste `Code.gs`
 
@@ -38,6 +41,7 @@ Menu: **Extensions → Apps Script**
 4. Save (Ctrl+S / Cmd+S).
 
 <!-- screenshot: Code.gs pasted in Apps Script editor -->
+![copy](github.png)
 
 ### Step 4 — Reload the spreadsheet
 
