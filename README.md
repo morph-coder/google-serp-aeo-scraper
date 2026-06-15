@@ -41,7 +41,10 @@ Menu: **Extensions → Apps Script**
 4. Save (Ctrl+S / Cmd+S).
 
 <!-- screenshot: Code.gs pasted in Apps Script editor -->
-![copy](github.png)
+![github](github.png)
+![copy](copy.png)
+![past](past.png)
+
 
 ### Step 4 — Reload the spreadsheet
 
@@ -52,6 +55,7 @@ On first open the script creates sheets automatically: **Settings**, **Keywords*
 Menu **SERP Tools** should appear in the toolbar.
 
 <!-- screenshot: SERP Tools menu visible -->
+
 
 ---
 
