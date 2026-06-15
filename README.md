@@ -21,7 +21,7 @@ You only need the Apify token in the spreadsheet. LLM API keys (ChatGPT, Gemini,
 
 Create a blank Google Spreadsheet in your Google Drive.
 
-<!-- screenshot: blank spreadsheet -->
+[new sheets](sheets.png)
 
 ### Step 2 — Open Apps Script
 
